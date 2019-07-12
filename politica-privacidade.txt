@@ -8,7 +8,7 @@ O App PIZZARIA ROMANA mantém suas informações em sigilo e utiliza-as somente 
 Ao utilizar os serviços do App PIZZARIA ROMANA, o usuário confirma que leu e está de acordo com os termos e condições estabelecido no Termo de Uso e política de privacidade. A aceitação de uso é indispensavel à utilização dos serviços presentes no App PIZZARIA ROMANA.
 
 Das Disposições Gerais
-O Termo de Uso poderá ser consultado, impresso ou armazenado em um arquivo de dados, em qualquer momento, pelo link https://github.com/joaomarccos/zafeapps-romana/blob/master/README.md.
+O Termo de Uso poderá ser consultado, impresso ou armazenado em um arquivo de dados, em qualquer momento, pelo link https://github.com/joaomarccos/zafeapps-romana/blob/master/politica-privacidade.txt.
 
 Prestação dos Serviços
 (a) No App PIZZARIA ROMANA oferecemos o serviço de delivery, possibilitando que os USUÁRIOS encaminhem, à PIZZARIA ROMANA SOUSA, pedidos de entrega.
